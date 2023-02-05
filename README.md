@@ -10,4 +10,4 @@ A complete recipe book application that uses Angular with NgRx for the frontend,
 ## Installation and Usage:
 - Install [Node.js](https://nodejs.org/en/download/)
 - Install Angular CLI: `npm install -g @angular/cli`
--Run the app: `npm install && ng serve -o`
+- Run the app: `npm install && ng serve -o`
