@@ -5,9 +5,9 @@
 ![Recipe Book Application](https://i.ibb.co/19mPrpG/Screenshot-from-2023-02-05-16-08-14.png)
 
 ## Introduction
-I made a complete Recipe Book application. I used Angular on frontend, with NgRx library and firebase on backend.
+A complete recipe book application that uses Angular with NgRx for the frontend, and Firebase for the backend.
 
-Setup:
-- install nodejs: https://nodejs.org/en/download/
-- install Angular cli:  ```npm install -g @angular/cli```
-- run the app: ```npm install && ng serve -o ``` 
+## Installation and Usage:
+- Install [Node.js](https://nodejs.org/en/download/)
+- Install Angular CLI: `npm install -g @angular/cli`
+-Run the app: `npm install && ng serve -o`
