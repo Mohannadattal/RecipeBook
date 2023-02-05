@@ -2,7 +2,7 @@
 
 ### [Live Site](https://angular-project-5dbc1.web.app/)
 
-![Chat Application](https://ibb.co/9qr1bfH)
+![Recipe Book Application](https://ibb.co/9qr1bfH)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
