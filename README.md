@@ -9,5 +9,5 @@ I made a complete Recipe Book application. I used Angular on frontend, with NgRx
 
 Setup:
 - install nodejs: (https://nodejs.org/en/download/)
-- install Angular cli: (npm install -g @angular/cli)
-- run ```npm i && npm start``` for both client and server side to start the development server
+- install Angular cli:  ```npm install -g @angular/cli```
+- run the app: ```npm install && ng serve -o ``` for both client and server side to start the development server
