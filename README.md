@@ -8,6 +8,6 @@
 I made a complete Recipe Book application. I used Angular on frontend, with NgRx library and firebase on backend.
 
 Setup:
-- install nodejs: (https://nodejs.org/en/download/)
+- install nodejs: https://nodejs.org/en/download/
 - install Angular cli:  ```npm install -g @angular/cli```
 - run the app: ```npm install && ng serve -o ``` 
